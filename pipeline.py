@@ -1,4 +1,4 @@
-from base import Base
+from src.base import Base
 from dotenv import load_dotenv
 import pymongo
 import os
